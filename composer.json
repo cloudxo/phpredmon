@@ -10,14 +10,15 @@
         "twig/extensions": "1.0.*@dev",
         "symfony/assetic-bundle": "2.1.*",
         "symfony/monolog-bundle": "2.1.*",
-        "sensio/distribution-bundle": "2.1.*",
+        "sensio/distribution-bundle": "2.1.9",
         "sensio/framework-extra-bundle": "2.1.*",
         "sensio/generator-bundle": "2.1.*",
         "jms/security-extra-bundle": "1.2.*",
         "jms/di-extra-bundle": "1.1.*",
         "kriswallsmith/assetic": "1.1.*@dev",
         "knplabs/knp-gaufrette-bundle": "*",
-        "predis/predis": "dev-master"
+        "predis/predis": "dev-master",
+        "ringoteam/phpredmon-bundle": "dev-master"
     },
     "scripts": {
         "post-install-cmd": [
