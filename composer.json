@@ -17,7 +17,7 @@
         "jms/di-extra-bundle": "1.1.*",
         "kriswallsmith/assetic": "1.1.*@dev",
         "knplabs/knp-gaufrette-bundle": "*",
-        "predis/predis": "dev-master",
+        "predis/predis":  "v0.8.5",
         "ringoteam/phpredmon-bundle": "dev-master"
     },
     "scripts": {
